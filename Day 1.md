@@ -5,4 +5,4 @@ This is a 1st day of 100 days python challenge
 
 ## Print function:
 
-![Print]("C:\Users\User\Desktop\Python\Day 1\day1 - print.png")
+![Print]("./Images/day1-print.png")
