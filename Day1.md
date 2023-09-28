@@ -9,4 +9,4 @@ This is a 1st day of 100 days python challenge
 
 ## Band name Generator
 
-![Print](./Images/Day_1/Day1-BandGenerator.png
+![Print](./Images/Day_1/Day1-BandGenerator.png)
