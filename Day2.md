@@ -11,4 +11,9 @@ This is a second day of 100 challenge, today we created some new basic calculato
  ## Tip calculator:
 
 ![Print](./Images/Day_2/Day2_Tip_calculator.png)
+
+## Data type counter:
+
+![Print](./Images/Day_2/day2-Datatype.png)
+
  
