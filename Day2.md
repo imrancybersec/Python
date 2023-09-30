@@ -5,7 +5,7 @@ This is a second day of 100 days challenge, today we have used different datatyp
 
 ![Print](./Images/Day_2/Day2-BMI_Calculator.png)
 
-## Whats my remaining age?:
+## What's my remaining age?:
 
 ![Print](./Images/Day_2/Day2_Age_Calculator.png)
 
